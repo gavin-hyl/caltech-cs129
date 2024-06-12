@@ -2,7 +2,7 @@
 
 ## Description
 
-### Course Description (Caltech 2023-2024 Catalog)
+### Course Description (Caltech 2023-2024 [Catalog](https://www.cms.caltech.edu/academics/courses/mecsee-129))
 
 This course covers the foundations of experimental realization on robotic systems.
 This includes software infrastructure to operate physical hardware, integrate
