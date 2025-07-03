@@ -1,19 +1,6 @@
-# Caltech CS/EE/ME 129 - Experimental Robotics
+# Autonomous Rover Navigation in Grid Worlds
 
-## Description
-
-### Course Description (Caltech 2023-2024 [Catalog](https://www.cms.caltech.edu/academics/courses/mecsee-129))
-
-This course covers the foundations of experimental realization on robotic systems.
-This includes software infrastructure to operate physical hardware, integrate
-various sensor modalities, and create robust autonomous behaviors.
-Using the Python programming language, assignments will explore techniques from
-simple polling to interrupt driven and multi-threaded architectures, ultimately
-utilizing the Robotic Operating System (ROS). Developments will be integrated on
-mobile robotic systems and demonstrated in the context of class projects.
-
-### Project Description
-
+## Overview
 The system built was a robot that could explore a Manhattan-style map defined by dark lines on
 the ground. Abilities include undirected explore, directed explore, path-finding,
 and autonomous/manual transitions between the three. The robot handles unexpected
